@@ -10,7 +10,7 @@ import {format} from 'date-fns'
 
 //'https://green-meadow-0b6c10003.azurestaticapps.net/building-location.json',
 
-
+//test
 
 function App() {
 
